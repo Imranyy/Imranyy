@@ -1,3 +1,7 @@
-<img src="https://avatars.githubusercontent.com/u/89136657?v=4" style="height:300px; width:100%;"/>
+<img src="https://avatars.githubusercontent.com/u/89136657?v=4" width='200' height='200'/>
 <h1>Hello</h1>
-I am <b>imran</b>
+<p style="font-family:monospace;">I am <b>imran</b> 
+<ul>
+  <li> Dm me on <a href='https://wa.me/+254754423664'>whatsapp😁</a></li>
+</ul>
+</p>
