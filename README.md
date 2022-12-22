@@ -1,25 +1,27 @@
-<div><img src="https://avatars.githubusercontent.com/u/89136657?v=4" width='200' height='200'/></div>
-<h1>Hello</h1>
-<p style="font-family:monospace;">I am <b>imran</b> <br/>
-  I am a 3years experienced fullstack web developer.
+![avatar](https://avatars.githubusercontent.com/u/89136657?v=4)
+
+# FullStack Web Developer
+  I'm [**Imran Matano**](https://imran-matano.web.app),
+  I started my web development journey in 2019. I'm experienced fullstack web developer.  Currently, I've been freelancing and working on peoples' projects.
   I've worked on different projects, frontend, backend and fullstack projects<br/>
   Feel free to check my public reposities.<br/>
   Currently, am freelancing and contributing to open source stackups but my aim is to secure a job in any tech company.
-  Feel free to message me on <a href="https://wa.me/+254754423664">whatsapp</a>
-  <h2>Skills</h2>
-<ul>
-  <li>Reactjs</li>
-  <li>Bootstrap</li>
-   <li>Html5,CSS, Vanillajs</li>
-   <li>Firabase</li>
-   <li>Nodejs</li>
-   <li>MongoDB</li>
-   <li>Mysql</li>
-   <li>Nosql and sql databases</li>
-    
-</ul>
-</p>
-<a href='https://imran-matano.web.app'>My personal website</a><br/>
-<a href='https://wa.me/+254754423664'>whatsapp</a><br/>
-<a href='https://twitter.com/imran_matano'>Twitter</a><br/>
-<a href='https://instagram.com/imrany00'>Instagram</a><br/>
+  Feel free to message me on [whatsapp](https://wa.me/+254754423664).
+
+
+  # TechStacks 📚
+  | FrontEnd    | Server-side | Databases |
+  |-------------|-------------|-----------|
+  |Reactjs      |Nodejs       |MongoDB    |
+  |Bootstrap    |Expressjs    |Mysql      |
+  |HTML5,CSS,JS |Firebase     |           |
+
+
+# Social Media Links
+
+* View my [Portfolio Website](https://imran-matano.web.app)
+* Message me on [Whatsapp](https://wa.me/+254754423664)
+* Hire me [Call](tel:0754423664)
+* Follow me on [Twitter](https://twitter.com/imran_matano)
+* Follow me on [Instagram](https://instagram.com/imrany00)
+* Stay in touch [Email](mailto:imranmat254@gmail.com)
