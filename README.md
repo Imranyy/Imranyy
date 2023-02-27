@@ -6,7 +6,7 @@
   I've worked on different projects, frontend, backend and fullstack projects<br/>
   Feel free to check my public reposities.<br/>
   Currently, am freelancing and contributing to open source stackups but my aim is to secure a job in any tech company.
-  Feel free to message me on [whatsapp](https://wa.me/+254754423664).
+  Feel free to message me on [whatsapp](https://wa.me/+254734720752).
 
 
   # TechStacks 📚
@@ -20,8 +20,8 @@
 # Social Media Links
 
 * View my [Portfolio Website](https://imran-matano.web.app)
-* Message me on [Whatsapp](https://wa.me/+254754423664)
+* Message me on [Whatsapp](https://wa.me/+254734720752)
 * Hire me [Call](tel:0754423664)
-* Follow me on [Twitter](https://twitter.com/imran_matano)
+* Follow me on [Twitter](https://twitter.com/matano_imran)
 * Follow me on [Instagram](https://instagram.com/imrany00)
 * Stay in touch [Email](mailto:imranmat254@gmail.com)
